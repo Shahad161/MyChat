@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">16sp</dimen>
+    <dimen name="smallSpace">5dp</dimen>
+    <dimen name="timeSpace">18dp</dimen>
+</resources>
